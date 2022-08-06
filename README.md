@@ -1,4 +1,4 @@
-# Unity3DGame-Escape2D
+# Unity3DGame-Escape2D - UNFINNISHED PROJECT
 
 Run away from zombies while trying to find the last door.
 
